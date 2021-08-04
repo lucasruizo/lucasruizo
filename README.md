@@ -1,5 +1,5 @@
 - 👋 Hola, soy @ lucasruiz
 - 👀 Me interesa el desarrollo de software y la ciberseguridad
-- 🌱 Actualmente estoy aprendiendo programacion y desarrollo de software
+- Actualmente estoy estudiando desarrollo de software
 - 💞️ Busco colaborar en algun proyecto de iniciacion
 - 📫 Cómo comunicarse conmigo: gmail: lucasruizo2005@gmail.com
